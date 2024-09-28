@@ -1,7 +1,16 @@
 import time
 import pandas as pd
 import numpy as np
+import numpy as np
 
+
+    """
+    Data Citys nueva modificación  en el refactoring actualizacion
+
+    HOLAAAAAAA nueva modificación
+    
+    holaaaaaa
+    """
 CITY_DATA = { 'Chicago': 'chicago.csv',
               'New York': 'new_york_city.csv',
               'Washington': 'washington.csv' }
@@ -12,8 +21,10 @@ weekdays = ("Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", 
 
 def selection(read, data):
     """
-    Ask and check the data provided compare with the available_data.
-    
+    Ask and check the data provided compare with the available_data. Eloi Sole
+    Data Citys nueva modificación  en el refactoring actualizacion
+
+    HOLAAAAAAA nueva modificación
     Returns:
         string - input data enter by the users
     """
