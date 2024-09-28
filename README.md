@@ -19,7 +19,7 @@ bikeshare.py
 
 
 ### Credits
-Eloi Sole Benaiges
+Eloi Sole Benaiges //
 
 
 Python 3, NumPy, and pandas installed using Anaconda
