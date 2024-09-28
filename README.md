@@ -14,6 +14,9 @@
 
 ### Credits
 /
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> documentation
 
