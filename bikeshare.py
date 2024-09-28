@@ -13,7 +13,7 @@ weekdays = ("Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", 
 def selection(read, data):
     """
     Ask and check the data provided compare with the available_data. Eloi Sole
-    Data Citys
+    Data Citys nueva modificación 2
     
     Returns:
         string - input data enter by the users
