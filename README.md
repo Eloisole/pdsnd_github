@@ -13,5 +13,6 @@ Explore data related to bike share systems for three major cities in the United 
 bikeshare.py
 
 ### Credits
-Eloi Sole, Python 3, NumPy, and pandas installed using Anaconda
+NEW: Eloi Sole Benaiges
+Python 3, NumPy, and pandas installed using Anaconda
 
