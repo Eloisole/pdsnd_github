@@ -6,8 +6,6 @@ Include the date you created this project and README file.
 Date 28/09/2024
 
 ### Project Title
-Replace the Project Title
-
 Project Bikeshare
 
 ### Description
