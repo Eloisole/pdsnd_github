@@ -21,5 +21,5 @@ bikeshare.py
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
-Eloi Sole, Python 3, NumPy, and pandas installed using Anaconda
+Eloi Sole Benaiges, Python 3, NumPy, and pandas installed using Anaconda
 
